@@ -40,4 +40,6 @@ public static WebDriver driver;
 		driver.manage().window().maximize();
 		return driver;
 
-}}
+}
+}
+
